@@ -32,10 +32,10 @@ I'm a Data Science enthusiast passionate about analyzing data, building machine 
 ![Data Science Learning](https://img.shields.io/badge/Currently%20Learning-Machine%20Learning-yellow)
 ![Python](https://img.shields.io/badge/Skills-Python%20%7C%20Data%20Visualization-blue)
 
-## 🤖 Fun Fact:
-- ### 😎 Fun Fact
 
-> "**I don't find patterns in data... the patterns come to me. 🔥📈**"
+### 😎 Fun Fact
+
+**I don't find patterns in data... the patterns come to me. 🔥📈**
 
 ---
 Thanks for visiting my profile! Let's connect and collaborate on cool data science projects. 🤝
