@@ -7,15 +7,15 @@ I'm a Data Science enthusiast passionate about analyzing data, building machine 
 ## 🚀 About Me:
 - 🔭 I’m currently learning **Machine Learning**
 - 🌱 I’m focusing on **Python**, **Data Visualization**, and **Statistics**  
-- 💻 Learning **Matplotlib**, **Seaborn**, **Plotly**, and **Power BI** to create stunning visualizations
+- 💻 Learned **Matplotlib**, **Seaborn**, to create stunning visualizations
 - 📝 My goal is to create data-driven solutions and communicate results effectively through insightful visuals
 
 ## 🧠 Skills:
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-learn, Regression, Classification, Clustering
-- **Visualization Tools**: Matplotlib, Seaborn, Plotly, Power BI
-- **Statistics**: Hypothesis Testing, Probability, A/B Testing
-- **Data Cleaning**: Handling missing values, outliers, and preprocessing
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**
+- **Visualization Tools**: Matplotlib, Seaborn
+- **Statistics**
+- **Data Cleaning**
 - **Version Control**: Git
 
 ## 📈 My Visualizations:
