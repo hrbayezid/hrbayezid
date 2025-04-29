@@ -1,26 +1,2 @@
-# Data Cleaning Project
-
-This project covers essential data cleaning techniques using Python and Pandas, including:
-
-- Handling missing values
-- Encoding categorical variables
-- Detecting and removing outliers
-- Scaling features
-- Removing duplicates
-- And more!
-
-## Project Structure
-- `Lessons/` → Jupyter notebooks with step-by-step lessons.
-- `Gitder Cleaning/` → Raw messy data + cleaning scripts.
-
-## Tech Stack
-- Python 🐍
-- Pandas 📊
-- Scikit-learn 🔥
-
-## Author
-- [hrbayezid](https://github.com/hrbayezid)
-
----
-
-> "Clean data, clean mind, clean life!" 🚿🧹
+Hi there, I'm Bayezid 👋🏻
+<div align="center"> <a href="https://www.linkedin.com/in/hrbayezid/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <a href="https://www.facebook.com/hrbayezid/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://hrbayezid.github.io/bayezid-portfolio/#dashboard" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a> </div>
