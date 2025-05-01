@@ -19,7 +19,7 @@ I'm a Data Science enthusiast passionate about analyzing data, building machine 
 - **Version Control**: Git
 
 ## 📈 My Visualizations:
-- Check out my latest data visualizations and analysis in my repositories. [Click Here](https://github.com/hrbayezid) to explore.
+- Check out my latest data visualizations and analysis in my repositories. [Click Here](https://hrbayezid.github.io/bayezid-portfolio/#projects) to explore.
 
 ## 📫 How to reach me:
 - Email: [hrbayezid@gmail.com](mailto:hrbayezid@gmail.com)
