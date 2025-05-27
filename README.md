@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:hrbayezid@gmail.com">Email</a> •
   <a href="https://bd.linkedin.com/in/hrbayezid">LinkedIn</a> •
-  <a href="https://github.com/hrbayezid">GitHub</a>
+  
 </p>
 
 ---
