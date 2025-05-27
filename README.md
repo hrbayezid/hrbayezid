@@ -1,72 +1,80 @@
-<h1 align="center">Hi, I'm Hifzur Rahman Bayezid</h1>
+<h1 align="center">Hifzur Rahman Bayezid</h1>
 <p align="center">
-  Aspiring Data Scientist | Machine Learning Enthusiast | Clean Code Lover
+  Aspiring Data Scientist · ML Explorer · Visualization Enthusiast
 </p>
 
 <p align="center">
-  <a href="mailto:hrbayezid@gmail.com">Email</a> •
-  <a href="https://bd.linkedin.com/in/hrbayezid">LinkedIn</a> •
-  
+  📍 Sylhet, Bangladesh &nbsp;|&nbsp;  
+  📞 01648-752209 &nbsp;|&nbsp;  
+  📧 hrbayezid@gmail.com &nbsp;|&nbsp;  
+  💬 Facebook: <a href="https://facebook.com/hrbayezid">@hrbayezid</a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
-Hey there! I'm Bayezid — an aspiring data scientist from Sylhet, Bangladesh, building the skills to solve real-world problems with Python, machine learning, and a sprinkle of visualization magic.
+Hi, I'm Bayezid — a passionate data enthusiast with a solid foundation in machine learning, data wrangling, and visual storytelling. I enjoy solving real-world problems using clean code, clear thinking, and Python-powered wizardry.
 
-I love turning messy data into clean insights and making models that actually *do stuff*, not just sit around collecting dust like old math books.
-
----
-
-### 🚀 My Toolbelt
-
-- **Languages:** Python, SQL  
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Other:** Git, Jupyter Notebook, VS Code  
-- **Soft Skills:** Problem Solving, Fast Learning, Communication
+Whether it’s building predictive models or making data dashboards look like they belong in a sci-fi movie, I bring energy, curiosity, and a problem-solving mindset to the table.
 
 ---
 
-### 🧪 Featured Projects
+## 🚀 Technical Skills
 
-#### 🔹 [LoanShark – Loan Default Prediction](https://github.com/hrbayezid/LoanShark)  
-Built a classification model using SVC, GaussianNB, and KNN in a hard voting ensemble.  
-Preprocessed structured financial data and visualized key features to uncover insights.
+**Languages & Tools:**  
+`Python` | `SQL` | `Git` | `Jupyter` | `VS Code`
 
-#### 🔹 [API-Based Purchase Prediction](https://github.com/hrbayezid/Predicting-purchases-using-api-data)  
-Parsed nested JSON API data to predict user purchasing behavior.  
-Engineered features, trained classifiers, and visualized purchase trends.
+**Libraries & Frameworks:**  
+`Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn`
+
+**Soft Skills:**  
+Fast Learner | Detail-Oriented | Communication | Problem Solving
 
 ---
 
-### 🎓 Education
+## 📊 Projects
+
+### 🔹 Loan Default Prediction – LoanShark  
+**Technologies:** Python, Pandas, Scikit-learn, Seaborn, Matplotlib  
+Built an ensemble classification model (SVC + Naive Bayes + KNN) to predict loan defaults.  
+Performed extensive preprocessing and visualized key insights to support decisions.  
+**Repo:** github.com/hrbayezid/LoanShark
+
+---
+
+### 🔹 Predicting Purchases Using API Data  
+**Technologies:** Python, Pandas, Scikit-learn, Seaborn, Matplotlib  
+Parsed nested API data (JSON), engineered features, and built predictive classifiers.  
+Used visual analytics to understand user behavior and predict purchasing intent.  
+**Repo:** github.com/hrbayezid/Predicting-purchases-using-api-data
+
+---
+
+## 🎓 Education
 
 **B.Sc in Computer Science & Engineering**  
 *Leading University, Sylhet*  
-Focus: Machine Learning, Statistics, Python, SQL, Linear Algebra
+Special focus on: Machine Learning, Statistics, Linear Algebra, Python & SQL
 
 ---
 
-### ✅ Certifications
+## 📜 Certifications & Languages
 
 - Ostad Data Science Program  
-- Fluent in **English** & **Bangla**
+- Languages: **English**, **Bangla**
 
 ---
 
-### 📈 What I'm Working On
+## 🎯 Currently Focusing On
 
-- Leveling up my ML skills one project at a time  
-- Exploring AutoML and real-world data wrangling  
-- Saying no to boring dashboards and yes to clean, sexy visualizations
-
----
-
-### ⚡ Fun Fact
-
-I break down complex ML stuff like I break my fast — with discipline, hunger, and a little bit of spice.
+- Building real-world ML projects  
+- Mastering AutoML tools & storytelling with data  
+- Developing portfolio-ready visualizations
 
 ---
 
-> “Code with purpose. Visualize with clarity. Learn like a beast.”
+## 💡 Let’s Connect
+
+Have a data challenge or role in mind?  
+Let's talk—I'm open to collaboration, internships, and full-time opportunities!
